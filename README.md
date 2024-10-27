@@ -1,4 +1,5 @@
 👋 Hi, welcome to My GitHub!
+
 I'm a Data Engineer in training with a unique background in Marketing and a Master’s degree in Product Management. 
 Currently, I’m expanding my expertise through a Specialized Master’s in Data Analytics, driven by a passion for transforming data into actionable insights and robust data pipelines.
 
